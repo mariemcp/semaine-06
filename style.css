@@ -18,6 +18,7 @@ h2
 {
     width: 100px;
     height: 100px;
+    border: 20 px black solid;
     border-radius: 20px;
 }
 header

@@ -1,0 +1,82 @@
+body
+{
+    background-image: url("images/crossword.png");
+    font-family: "Garamond";
+    padding: 0;
+    margin: 0;
+}
+
+h1
+{
+    font-size: 2em;
+}
+h2
+{
+    color: #CD853F;
+}
+.ordinateur
+{
+    width: 100px;
+    height: 100px;
+    border-radius: 15px;
+}
+header
+{
+    background: url("images/extra_clean_paper.png");
+    text-align: center;
+}
+
+.parcours
+{
+    width: 33%;
+    height: 280px;
+    display: inline-block;
+    vertical-align: top;
+    box-sizing: border-box;
+    padding-left: 20px;
+    padding-right:20px;
+    line-height: 20px;
+    font-size: 15px;
+    
+}
+
+.ambitions
+{
+    width: 33%;
+    height:280px;
+    display:inline-block;
+    box-sizing: border-box;
+    padding-left: 20px;
+    padding-right: 20px;
+    line-height: 20px;
+    font-size: 15px;
+}
+.experience
+{
+    width:33%;
+    height: 280px;
+    display: inline-block;
+    vertical-align: top;
+    box-sizing: border-box;
+    padding-left: 20px;
+    padding-right: 20px;
+    line-height: 20px;
+    font-size: 15px;
+}
+.contacts
+{
+    display: inline-block;
+    margin-left: 30px;
+    vertical-align: middle;
+}
+.iframe
+{
+    width: 50%;
+    vertical-align: middle;
+}
+
+footer
+{
+    background: url("images/gplaypattern.png");
+    text-align: center;
+}
